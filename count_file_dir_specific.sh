@@ -26,7 +26,7 @@ for dir in `ls | egrep -e '^C.*1'`
 do
 	cd $dir/
 	echo "File in " $dir `ls | egrep -v '$match_file' | wc -l`
-	cd ../../
+	cd ../
 done
 
 
