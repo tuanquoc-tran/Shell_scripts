@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "Author: TuanTran"                                     
+echo "Github: https://github.com/quoctuan-iot"   
+
 #Options Description egrep
 #-c : This prints only a count of the lines that match a pattern
 #-h : Display the matched lines, but do not display the filenames.

@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# This script use to checking file is exists.
+
+echo "Author: TuanTran"                                     
+echo "Github: https://github.com/quoctuan-iot"   
+
 # if dir don't exist, create dir
 if [ ! -d source ]
 then 
