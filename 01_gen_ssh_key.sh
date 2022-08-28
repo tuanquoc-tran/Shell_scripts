@@ -3,8 +3,8 @@
 # This script use to creating a ssh key for git.
 # How to run: ./01_gen_ssh_key.sh 
 
-echo "Author: TuanTran"                                     
-echo "Github: https://github.com/quoctuan-iot"   
+echo "Author: QuocTuan"                                     
+echo "Github: https://github.com/quoctuan-coder"   
 
 # Note: Need run manual, if asked enter passphrase when push
 # Check for an existing ssh key 
