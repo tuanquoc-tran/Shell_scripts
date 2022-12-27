@@ -3,7 +3,7 @@
 #Function: Get log and generate report
 #How_to_run: Gen_Report_CSV.csh 
 #Location: Put the same log directory after run test case
-#Author: QuocTuan
+#Author: TuanTran
 #Version: 0.1 First created
 
 #=================Input_seting===============#
